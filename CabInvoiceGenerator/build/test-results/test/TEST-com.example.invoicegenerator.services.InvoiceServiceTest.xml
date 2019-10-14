@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.invoicegenerator.services.InvoiceServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-14T13:52:58" hostname="Vyshakhs-MacBook-Pro.local" time="0.008">
+<testsuite name="com.example.invoicegenerator.services.InvoiceServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-14T21:01:17" hostname="Vyshakhs-MacBook-Pro.local" time="0.009">
   <properties/>
-  <testcase name="shouldReturnInvoiceFromUserId" classname="com.example.invoicegenerator.services.InvoiceServiceTest" time="0.008"/>
+  <testcase name="shouldReturnInvoiceFromUserId" classname="com.example.invoicegenerator.services.InvoiceServiceTest" time="0.009"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
